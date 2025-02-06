@@ -1,0 +1,7 @@
+C:\Users\yurib\source\repos\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\PessoaMaisVelha.exe.config
+C:\Users\yurib\source\repos\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\PessoaMaisVelha.exe
+C:\Users\yurib\source\repos\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\PessoaMaisVelha.pdb
+C:\Users\yurib\source\repos\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\PessoaMaisVelha.csproj.AssemblyReference.cache
+C:\Users\yurib\source\repos\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\PessoaMaisVelha.csproj.CoreCompileInputs.cache
+C:\Users\yurib\source\repos\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\PessoaMaisVelha.exe
+C:\Users\yurib\source\repos\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\PessoaMaisVelha.pdb

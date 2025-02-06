@@ -1,0 +1,7 @@
+C:\Users\yurib\source\repos\TrianguloDeMaiorAreaComOOP\TrianguloDeMaiorAreaComOOP\bin\Debug\TrianguloDeMaiorAreaComOOP.exe.config
+C:\Users\yurib\source\repos\TrianguloDeMaiorAreaComOOP\TrianguloDeMaiorAreaComOOP\bin\Debug\TrianguloDeMaiorAreaComOOP.exe
+C:\Users\yurib\source\repos\TrianguloDeMaiorAreaComOOP\TrianguloDeMaiorAreaComOOP\bin\Debug\TrianguloDeMaiorAreaComOOP.pdb
+C:\Users\yurib\source\repos\TrianguloDeMaiorAreaComOOP\TrianguloDeMaiorAreaComOOP\obj\Debug\TrianguloDeMaiorAreaComOOP.csproj.AssemblyReference.cache
+C:\Users\yurib\source\repos\TrianguloDeMaiorAreaComOOP\TrianguloDeMaiorAreaComOOP\obj\Debug\TrianguloDeMaiorAreaComOOP.csproj.CoreCompileInputs.cache
+C:\Users\yurib\source\repos\TrianguloDeMaiorAreaComOOP\TrianguloDeMaiorAreaComOOP\obj\Debug\TrianguloDeMaiorAreaComOOP.exe
+C:\Users\yurib\source\repos\TrianguloDeMaiorAreaComOOP\TrianguloDeMaiorAreaComOOP\obj\Debug\TrianguloDeMaiorAreaComOOP.pdb

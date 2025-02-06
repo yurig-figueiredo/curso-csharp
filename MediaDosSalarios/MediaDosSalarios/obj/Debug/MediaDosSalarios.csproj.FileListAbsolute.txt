@@ -1,0 +1,7 @@
+C:\Users\yurib\source\repos\MediaDosSalarios\MediaDosSalarios\bin\Debug\MediaDosSalarios.exe.config
+C:\Users\yurib\source\repos\MediaDosSalarios\MediaDosSalarios\bin\Debug\MediaDosSalarios.exe
+C:\Users\yurib\source\repos\MediaDosSalarios\MediaDosSalarios\bin\Debug\MediaDosSalarios.pdb
+C:\Users\yurib\source\repos\MediaDosSalarios\MediaDosSalarios\obj\Debug\MediaDosSalarios.csproj.AssemblyReference.cache
+C:\Users\yurib\source\repos\MediaDosSalarios\MediaDosSalarios\obj\Debug\MediaDosSalarios.csproj.CoreCompileInputs.cache
+C:\Users\yurib\source\repos\MediaDosSalarios\MediaDosSalarios\obj\Debug\MediaDosSalarios.exe
+C:\Users\yurib\source\repos\MediaDosSalarios\MediaDosSalarios\obj\Debug\MediaDosSalarios.pdb

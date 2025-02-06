@@ -1,0 +1,7 @@
+C:\Users\yurib\source\repos\Course\Course\bin\Debug\Course.exe.config
+C:\Users\yurib\source\repos\Course\Course\bin\Debug\Course.exe
+C:\Users\yurib\source\repos\Course\Course\bin\Debug\Course.pdb
+C:\Users\yurib\source\repos\Course\Course\obj\Debug\Course.csproj.AssemblyReference.cache
+C:\Users\yurib\source\repos\Course\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+C:\Users\yurib\source\repos\Course\Course\obj\Debug\Course.exe
+C:\Users\yurib\source\repos\Course\Course\obj\Debug\Course.pdb

@@ -1,0 +1,7 @@
+C:\Users\yurib\source\repos\ExercicioEstoque\ExercicioEstoque\bin\Debug\ExercicioEstoque.exe.config
+C:\Users\yurib\source\repos\ExercicioEstoque\ExercicioEstoque\bin\Debug\ExercicioEstoque.exe
+C:\Users\yurib\source\repos\ExercicioEstoque\ExercicioEstoque\bin\Debug\ExercicioEstoque.pdb
+C:\Users\yurib\source\repos\ExercicioEstoque\ExercicioEstoque\obj\Debug\ExercicioEstoque.csproj.AssemblyReference.cache
+C:\Users\yurib\source\repos\ExercicioEstoque\ExercicioEstoque\obj\Debug\ExercicioEstoque.csproj.CoreCompileInputs.cache
+C:\Users\yurib\source\repos\ExercicioEstoque\ExercicioEstoque\obj\Debug\ExercicioEstoque.exe
+C:\Users\yurib\source\repos\ExercicioEstoque\ExercicioEstoque\obj\Debug\ExercicioEstoque.pdb

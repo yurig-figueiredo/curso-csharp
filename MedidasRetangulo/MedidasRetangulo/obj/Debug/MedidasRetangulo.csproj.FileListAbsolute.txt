@@ -1,0 +1,7 @@
+C:\Users\yurib\source\repos\MedidasRetangulo\MedidasRetangulo\bin\Debug\MedidasRetangulo.exe.config
+C:\Users\yurib\source\repos\MedidasRetangulo\MedidasRetangulo\bin\Debug\MedidasRetangulo.exe
+C:\Users\yurib\source\repos\MedidasRetangulo\MedidasRetangulo\bin\Debug\MedidasRetangulo.pdb
+C:\Users\yurib\source\repos\MedidasRetangulo\MedidasRetangulo\obj\Debug\MedidasRetangulo.csproj.AssemblyReference.cache
+C:\Users\yurib\source\repos\MedidasRetangulo\MedidasRetangulo\obj\Debug\MedidasRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\yurib\source\repos\MedidasRetangulo\MedidasRetangulo\obj\Debug\MedidasRetangulo.exe
+C:\Users\yurib\source\repos\MedidasRetangulo\MedidasRetangulo\obj\Debug\MedidasRetangulo.pdb

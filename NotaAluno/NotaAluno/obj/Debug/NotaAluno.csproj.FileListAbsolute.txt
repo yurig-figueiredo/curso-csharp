@@ -1,0 +1,7 @@
+C:\Users\yurib\source\repos\NotaAluno\NotaAluno\bin\Debug\NotaAluno.exe.config
+C:\Users\yurib\source\repos\NotaAluno\NotaAluno\bin\Debug\NotaAluno.exe
+C:\Users\yurib\source\repos\NotaAluno\NotaAluno\bin\Debug\NotaAluno.pdb
+C:\Users\yurib\source\repos\NotaAluno\NotaAluno\obj\Debug\NotaAluno.csproj.AssemblyReference.cache
+C:\Users\yurib\source\repos\NotaAluno\NotaAluno\obj\Debug\NotaAluno.csproj.CoreCompileInputs.cache
+C:\Users\yurib\source\repos\NotaAluno\NotaAluno\obj\Debug\NotaAluno.exe
+C:\Users\yurib\source\repos\NotaAluno\NotaAluno\obj\Debug\NotaAluno.pdb

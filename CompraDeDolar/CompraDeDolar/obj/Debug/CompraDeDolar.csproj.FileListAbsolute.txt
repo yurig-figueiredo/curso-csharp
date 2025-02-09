@@ -1,0 +1,7 @@
+C:\Users\yurib\source\repos\CompraDeDolar\CompraDeDolar\bin\Debug\CompraDeDolar.exe.config
+C:\Users\yurib\source\repos\CompraDeDolar\CompraDeDolar\bin\Debug\CompraDeDolar.exe
+C:\Users\yurib\source\repos\CompraDeDolar\CompraDeDolar\bin\Debug\CompraDeDolar.pdb
+C:\Users\yurib\source\repos\CompraDeDolar\CompraDeDolar\obj\Debug\CompraDeDolar.csproj.AssemblyReference.cache
+C:\Users\yurib\source\repos\CompraDeDolar\CompraDeDolar\obj\Debug\CompraDeDolar.csproj.CoreCompileInputs.cache
+C:\Users\yurib\source\repos\CompraDeDolar\CompraDeDolar\obj\Debug\CompraDeDolar.exe
+C:\Users\yurib\source\repos\CompraDeDolar\CompraDeDolar\obj\Debug\CompraDeDolar.pdb
